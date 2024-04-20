@@ -18,3 +18,7 @@
    18  bash run.sh Jack
    19  bash run.sh
    20  history > ../../../cmd10-04-2024morning.txt
+   21  ls
+   22  cd ..
+   23  ls
+   24  history >cmd19-04-2024morning.txt 
